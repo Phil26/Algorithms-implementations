@@ -1,0 +1,1 @@
+Fadeev method for determining the coefficients of the characteristic polynomial.
