@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\MN_labs\lab4\FactorizareLR\Source.cpp(8,12): warning C4101: 'j': unreferenced local variable
+D:\MN_labs\lab4\FactorizareLR\Source.cpp(7,8): warning C4101: 'A': unreferenced local variable
+  FactorizareLR.vcxproj -> D:\MN_labs\lab4\FactorizareLR\Debug\FactorizareLR.exe
