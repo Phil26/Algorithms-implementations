@@ -1,0 +1,1 @@
+C++ implementation of Gaussian method, with total pivoting at each stage, for solving linear equations systems.
