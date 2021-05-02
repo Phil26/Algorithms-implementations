@@ -1,0 +1,4 @@
+C:\Users\Filip\Desktop\MN_labs\lab.2\Debug\lab.2.exe
+C:\Users\Filip\Desktop\MN_labs\lab.2\Debug\lab.2.pdb
+C:\Users\Filip\Desktop\MN_labs\lab2\lab.2\Debug\lab.2.exe
+C:\Users\Filip\Desktop\MN_labs\lab2\lab.2\Debug\lab.2.pdb
