@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seidel-gauss", "seidel-gauss.vcxproj", "{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Debug|x64.ActiveCfg = Debug|x64
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Debug|x64.Build.0 = Debug|x64
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Debug|x86.Build.0 = Debug|Win32
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Release|x64.ActiveCfg = Release|x64
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Release|x64.Build.0 = Release|x64
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Release|x86.ActiveCfg = Release|Win32
+		{AC57E331-F40C-4D9E-AA90-C6007D58A1FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1E649C-6BF0-44F7-8942-A81EEE07A9F3}
+	EndGlobalSection
+EndGlobal
