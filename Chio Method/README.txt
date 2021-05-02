@@ -1,0 +1,1 @@
+Pivotal condensation for the calculation of determinants (Chio method).
